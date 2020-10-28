@@ -4,6 +4,7 @@
 git clone https://github.com/RevengeOS-Devices/official_devices official_devices
 
 cd official_devices
+ls
 LIST=$(git diff-tree --no-commit-id --name-only -r HEAD)
 echo $LIST > temp
 sed 's|/.*||' -i temp
