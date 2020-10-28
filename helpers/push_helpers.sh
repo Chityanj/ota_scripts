@@ -2,7 +2,7 @@
 # Telegram helpers for pushing OTA
 
 # Channel & Group
-export OTA_CHANNEL=-1001331597794
+export OTA_CHANNEL=-1001442961605
 export OTA_GROUP=-1001279894967
 
 # Token
