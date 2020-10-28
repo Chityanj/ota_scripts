@@ -6,7 +6,7 @@ export OTA_CHANNEL=-1001442961605
 export OTA_GROUP=-1001279894967
 
 # Token
-export TELEGRAM_TOKEN=${BOT_API_TOKEN}
+
 
 # Send to main group
 tg_groupcast() {
